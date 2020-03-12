@@ -673,6 +673,10 @@ function confirmAdvancingToBonusLevel () {
 }
 
 /*********Main logic*********/
+
+alert("Game begins");
+
+
 gameBoard.startGame();
 gameBoard.playGame();
 

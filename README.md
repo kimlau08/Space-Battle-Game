@@ -4,6 +4,10 @@ Space battle
 Features
 ========
 	+ The game has to be played within Chrom Dev tool.
+	********Important****** Start game by activating Chrome Dev tool before the game begins. Alert msg at before the game begins has more info.
+	
+	
+	
 	+ There are 2 game levels: Level 1 and Bonus level
 	
 	Level 1 Features
@@ -28,7 +32,7 @@ Features
 		+ Battle all alien ships before the weapon pods from the mega alien ship
 		+ Battle all weapon pods before the mega alien ships
 
-	+ weaponPods -** megaPodCount set to 2 for testing
+	+ weaponPods -** megaPodCount set to 2 for ease of testing
 		+ Pods are in essence an alien ship with higher firepower (megaPodFirepower set to 6)
 
 	+ missiles -** missleCount set to 1 for testing. (misslePower set to 5)
